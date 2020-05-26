@@ -3,7 +3,8 @@
   <entry>
     <title>第一篇文章</title>
     <url>/2020/05/22/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
-    <content><![CDATA[<h1 id="我的博客"><a href="#我的博客" class="headerlink" title="我的博客"></a>我的博客</h1><p>经过两天时间，搭建的也差不多了，剩下的就是写博客了。总的来说，不算特别难，但是有很多小细节需要处理，bug不断，但最后还是把这个完成了。</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="我的博客"><a href="#我的博客" class="headerlink" title="我的博客"></a>我的博客</h1><p>经过两天时间，搭建的也差不多了，剩下的就是写博客了。总的来说，不算特别难，但是有很多小细节需要处理，bug不断，但最后还是把这个完成了。</p>
+<a id="more"></a>
 <h2 id="搭建"><a href="#搭建" class="headerlink" title="搭建"></a>搭建</h2><p>搭建过程不算难，很快就完成了，就是连接部署到github时遇到了一点点的问题，不过问题不大，磕磕碰碰的解决了。</p>
 <h2 id="主题"><a href="#主题" class="headerlink" title="主题"></a>主题</h2><p>主题一开始不是这个，翻来翻去，第一眼就相中这个了，比较简洁、大方，修改起来也比较容易，最主要的是给的教程比较的详细，有问题可以比较轻松的解决。</p>
 <p>先写这么多吧，第一次写博客，也不知道写点啥，因为最近忙着考研，所以时间也很少，以后有时间更新。</p>
@@ -13,6 +14,35 @@
       </categories>
       <tags>
         <tag>经验</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【DIY】将十几年前的破电脑屏幕改装成笔记本副屏</title>
+    <url>/2020/05/26/%E5%B0%86%E5%8D%81%E5%87%A0%E5%B9%B4%E5%89%8D%E7%9A%84%E7%A0%B4%E7%94%B5%E8%84%91%E5%B1%8F%E5%B9%95%E6%94%B9%E8%A3%85%E6%88%90%E7%AC%94%E8%AE%B0%E6%9C%AC%E5%89%AF%E5%B1%8F/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>最近在家收拾东西，无意间看到了家里的老电脑，看到这台电脑时，不禁想起儿时打游戏的场景，十几年过去了，虽然还能开机，但已力不从心，不如把他改造一下，重新利用。其实现在这些硬件能用的也就是显示器了，其他的都太老了，带不动现在的电脑。<br>说干就干，第一步就是拆机了</p>
+<h2 id="拆机"><a href="#拆机" class="headerlink" title="拆机"></a>拆机</h2><p>第一步肯定是拧下背部螺丝，由于年代久远，和现在的电脑拆解有所不同，发现拆完背部螺丝并不能把电脑一分为二，于是在网上搜了一下教程，原来得从前面转轴位置，先扣出来<br><img src="https://pic.downk.cc/item/5eccbbbdc2a9a83be5dd7b92.jpg" alt="1"></p>
+<a id="more"></a>
+
+<p>键盘随之取出,就变成下边这个样子了，里面好多灰尘，放了十几年了，也是不容易。<br><img src="https://pic.downk.cc/item/5eccbc15c2a9a83be5ddb9f8.jpg" alt="2"></p>
+<p>那么接下来一直拆就行了,来个全家福<br><img src="https://pic.downk.cc/item/5eccbc87c2a9a83be5de1bdd.jpg" alt="3"></p>
+<p>这个就是今天的主角了，屏幕（脏兮兮的，也没擦）<br><img src="https://pic.downk.cc/item/5eccbccdc2a9a83be5de4be9.jpg" alt="pm"></p>
+<p>拆完屏幕，差不多就完成一半了，下一步就是买驱动板了。</p>
+<h2 id="亮屏"><a href="#亮屏" class="headerlink" title="亮屏"></a>亮屏</h2><p>亮屏需要购买驱动板，在网上买了一个，60块钱，带HDMI头的，显示效果会好一点<br><img src="https://pic.downk.cc/item/5eccbd7dc2a9a83be5deeb17.jpg" alt="3"></p>
+<p>等了三天，终于到了，下面开始拆箱！</p>
+<p><img src="https://pic.downk.cc/item/5eccbdd2c2a9a83be5df40d8.jpg" alt="4"></p>
+<p>拆开以后是这样子的，一个电源，驱动板，排线，还有操作按钮</p>
+<p><img src="https://pic.downk.cc/item/5eccbdf3c2a9a83be5df5fe7.jpg" alt="5"></p>
+<p>一开始不太会组装，问卖家要来了教程，组装过程也不算难，最终组装好就是这样子</p>
+<p><img src="https://pic.downk.cc/item/5eccbdf3c2a9a83be5df5fe7.jpg" alt="6"><br>这样差不多算是组装完成了，下面就是紧张刺激的亮屏环节了</p>
+<p>一次点亮，成功！<br><img src="https://pic.downk.cc/item/5eccbe9dc2a9a83be5e013d9.jpg" alt="7"><br><img src="https://pic.downk.cc/item/5eccbebec2a9a83be5e041f7.jpg" alt="8"></p>
+<p>当个副屏还是可以的。</p>
+<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>因为毕竟是十几年前的屏幕了，屏幕素质肯定不会很高，显示效果也不是很理想，但是这些不是主要的，主要是体验其中的乐趣，锻炼自己的动手能力，毕竟对这方面感兴趣嘛。</p>
+]]></content>
+      <categories>
+        <category>数码</category>
+      </categories>
+      <tags>
+        <tag>DIY</tag>
       </tags>
   </entry>
 </search>
